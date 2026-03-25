@@ -1,4 +1,4 @@
-# Breast Cancer Classification using Decision Tree & Random Forest
+# CancerScan
 
 ## About
 This project implements Decision Tree and Random Forest machine learning models to classify breast cancer tumors as Malignant or Benign using the Breast Cancer Wisconsin dataset.
